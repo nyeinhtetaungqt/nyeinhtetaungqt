@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nyeinhtetaungqt
+- 👋 Hi, I’m nyeinhtetaungqt
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning webdevelopment
-- 💞️ I’m looking to collaborate on some projects
+- 💞️ I’m keep learning currently
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: programmer has no life but me
